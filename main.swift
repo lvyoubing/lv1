@@ -10,6 +10,6 @@ import Foundation
 
 var a:Int,b:Int,c:Int
 a=100
-b=100
+b=1000
 c=a+b
 print("\(c)")
